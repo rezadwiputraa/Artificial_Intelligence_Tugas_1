@@ -39,6 +39,11 @@ Dataset terdiri dari informasi penjualan produk vape, dengan kolom-kolom sebagai
 7. **Evaluasi Model**
    - Menghitung akurasi model dan menghasilkan matriks kebingungan serta laporan klasifikasi.
 
+## Kesimpulan 
+   - Kode ini melakukan analisis dan prediksi terhadap data penjualan produk vape menggunakan KNN.
+   - Anda dapat melihat seberapa baik model dapat memprediksi produk berdasarkan fitur yang ada.
+   - Mengingat ukuran dataset yang kecil, hasil mungkin tidak sepenuhnya representatif. Mengumpulkan data lebih banyak atau melakukan validasi silang dapat membantu meningkatkan akurasi dan keandalan model.
+   
 ## Cara Menjalankan Proyek
 
 Untuk menjalankan proyek ini, pastikan Anda telah menginstal semua dependensi yang diperlukan. Anda dapat menggunakan `pip` untuk menginstalnya:
